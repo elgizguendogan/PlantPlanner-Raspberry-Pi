@@ -2,7 +2,7 @@
 
 PlantPlanner is a small application to schedule the watering days of your plants at home. You can give your plants names, select their watering days and how much water do they need. 
 
-<img src="images/mainScreen.png" width = 250> <img src="images/plantList.png" width = 250> <img src="images/editList.png" width = 250>
+<img src="images/mainPage.png" width = 250> <img src="images/plantList.png" width = 250> <img src="images/editPlant.png" width = 250>
 
 ## Requirements
 
@@ -26,4 +26,4 @@ PlantPlanner is a small application to schedule the watering days of your plants
 - Cross-compiling guide:[RaspberryPi2EGLFS](https://wiki.qt.io/RaspberryPi2EGLFS)
 - The application icon is taken from [pngtree](https://pngtree.com/freepng/vector-leaf-icon_4147183.html).
 - The weather data and icons are taken from [OpenWeather API](https://openweathermap.org).
-- 
+- The virtual keyboard for Qt is taken from [TI Qt Keyboard Template](https://processors.wiki.ti.com/index.php/Qt_Keyboard_Template).
