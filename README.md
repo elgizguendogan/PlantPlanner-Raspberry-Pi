@@ -4,6 +4,10 @@ PlantPlanner is a small application to schedule the watering days of your plants
 
 <img src="images/mainPage.png" width = 250> <img src="images/plantList.png" width = 250> <img src="images/editPlant.png" width = 250>
 
+## Demonstration
+
+![](images/demonstration.gif)
+
 ## Requirements
 
 - Ubuntu 16.04
