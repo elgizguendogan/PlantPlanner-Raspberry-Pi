@@ -2,6 +2,7 @@
 
 PlantPlanner is a small application to schedule the watering days of your plants at home. You can give your plants names, select their watering days and how much water do they need. 
 
+<img src="images/mainScreen.png" width = 250> <img src="images/plantList.png" width = 250> <img src="images/editList.png" width = 250>
 
 ## Requirements
 
