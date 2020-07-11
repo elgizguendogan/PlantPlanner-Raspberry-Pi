@@ -15,7 +15,7 @@ PlantPlanner is a small application to schedule the watering days of your plants
 
 - After successful completion of cross-compiling, the source files can be opened in the Qt Creator from the host PC and compiled for the Raspberry Pi Kit.
 - The project should have the "-platform xcb" flag in the Qt Creator's Build & Run configuration.
-- Also in the Qt Creator's Build & Run settings, the environment the following variables shoule be added:"DISPLAY:0" , "XAUTHORITY=/home/pi/.Xauthority"
+- Also in the Qt Creator's Build & Run settings, the environment the following variables shoule be added: "DISPLAY : 0", "XAUTHORITY = /home/pi/.Xauthority"
 
 ## Future Work
 
