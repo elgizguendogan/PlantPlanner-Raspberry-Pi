@@ -23,7 +23,7 @@ PlantPlanner is a small application to schedule the watering days of your plants
 
 ## References
 
-- Cross-compiling guide:[RaspberryPi2EGLFS](https://wiki.qt.io/RaspberryPi2EGLFS)
+- Cross-compiling guide: [RaspberryPi2EGLFS](https://wiki.qt.io/RaspberryPi2EGLFS)
 - The application icon is taken from [pngtree](https://pngtree.com/freepng/vector-leaf-icon_4147183.html).
 - The weather data and icons are taken from [OpenWeather API](https://openweathermap.org).
 - The virtual keyboard for Qt is taken from [TI Qt Keyboard Template](https://processors.wiki.ti.com/index.php/Qt_Keyboard_Template).
